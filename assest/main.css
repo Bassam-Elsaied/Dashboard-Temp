@@ -1450,6 +1450,9 @@ ul {
   border-bottom: 1px solid #eee;
 }
 
+.friendsPage .friendBox .body div i {
+  margin-right: 10px;
+}
 /* ********************* files page ******************************** */
 
 /* file static */
